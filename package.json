@@ -1,0 +1,22 @@
+{
+  "name": "mythrium-bot",
+  "version": "0.0.1",
+  "description": "Manage in-game trades with digital currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timojov132/mythrium-bot.git"
+  },
+  "author": "timojov132",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timojov132/mythrium-bot/issues"
+  },
+  "homepage": "https://github.com/timojov132/mythrium-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.0.3"
+  }
+}

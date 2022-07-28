@@ -1,0 +1,5 @@
+{
+    "dps": ["Ashe", "Bastion", "Doomfist", "Echo", "Genji", "Hanzo", "Junkrat", "McCree", "Mei", "Pharah", "Reaper", "Soldier: 76", "Sombra", "Symmetra", "Torbjorn", "Tracer", "Widowmaker"],
+    "support": ["Ana", "Baptiste", "Brigitte", "Lucio", "Mercy", "Moira", "Zenyatta"],
+    "tanks": ["D.Va", "Orisa", "Reinhardt", "Roadhog", "Sigma", "Winston", "Wrecking Ball", "Zarya"]
+  }
