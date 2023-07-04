@@ -1,0 +1,13 @@
+[{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"1","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"2","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"4","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"5","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":"6","label":"label","description":"description","value":"value","repeat":"repeat"},
+{"tier":2,"label":"Test","description":"Testing","value":"30","repeat":"3"},
+{"tier":2,"label":"Gather Wuud","description":"This is a test","value":"50","repeat":"8"}]
